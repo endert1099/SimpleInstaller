@@ -1,0 +1,10 @@
+{
+	"name": "Example Config",
+	"version": "0.0.0",
+	"author": "Example Author",
+	"description": "A test install to show what a real config file would look like",
+	"readme": "readme.md",
+	"files": {
+		"path/to/file/in/directory/file.txt": "https://linktofileonwebmakesureitsadirectdownloadlink.com"
+	}
+}
